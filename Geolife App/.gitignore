@@ -1,0 +1,7 @@
+model/RF_model.sav
+.DS_Store
+.streamlit
+.streamlit/secrets.toml
+.ipynb_checkpoints
+.devcontainer
+.devcontainer/devcontainer.json

@@ -1,0 +1,35 @@
+landcover_code;original_landcover_code;landcover_label
+0;0;Missing Data
+1;11;Annual Summer Crops
+2;12;Annual Winter Crops
+3;31;Broad-leaved Forests
+4;32;Coniferous Forests
+5;34;Natural Grasslands
+6;36;Woody Moorlands
+7;41;Continuous Urban Fabric
+8;42;Discontinuous Urban Fabric
+9;43;Industrial and Commercial Units
+10;44;Road Surfaces
+11;45;Bare Rock
+12;46;Beaches, Dunes, and Sands
+13;51;Water Bodies
+14;53;Glacier and Perpetual Snow
+15;211;Intensive Grasslands
+16;221;Orchards
+17;222;Vineyards
+18;11;Open Water
+19;12;Perennial Ice/Snow
+20;21;Developed, Open Space
+21;22;Developed, Low Intensity
+22;23;Developed, Medium Intensity
+23;24;Developed, High Intensity
+24;31;Barren Land (Rock/Sand/Clay)
+25;41;Deciduous Forest
+26;42;Evergreen Forest
+27;43;Mixed Forest
+28;52;Shrub/Scrub
+29;71;Grassland/Herbaceous
+30;81;Pasture/Hay
+31;82;Cultivated Crops
+32;90;Woody Wetlands
+33;95;Emergent Herbaceous Wetlands
